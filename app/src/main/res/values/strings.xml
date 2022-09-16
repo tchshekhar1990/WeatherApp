@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="min_temp">%1$s\nmin</string>
+    <string name="current_temp">%1$s\ncurrent</string>
+    <string name="max_temp">%1$s\nmax</string>
+    <string name="request_location_permission">Request Location Permission</string>
+</resources>
